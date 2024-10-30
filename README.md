@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ivanart1498
 - 👀 I’m interested in backend development, artificial intelligence and database development
 - 🌱 I’m currently learning python, java, javascrypt
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me web development and machine learning projects
+- 💞️ I’m looking to collaborate on web development and machine learning projects
+- 📫 How to reach me through my linkedin https://www.linkedin.com/in/ivana-treppo-76739b289/ and my email ivanaromerotreppo@gmail.com
 - 😄 Pronouns: ivi
 - ⚡ Fun fact: I am currently studying systems analysis
 
