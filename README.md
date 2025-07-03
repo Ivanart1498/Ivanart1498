@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Ivanart1498
-- 👀 I’m interested in backend development, artificial intelligence and database development
-- 🌱 I’m currently learning python, java, javascrypt
-- 💞️ I’m looking to collaborate on web development and machine learning projects
-- 📫 How to reach me through my linkedin https://www.linkedin.com/in/ivana-treppo-76739b289/ and my email ivanaromerotreppo@gmail.com
-- 😄 Pronouns: ivi
-- ⚡ Fun fact: I am currently studying systems analysis
+### Welcome to my GitHub Profile!
 
-<!---
-Ivanart1498/Ivanart1498 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## I'm Ivana Treppo
+
+I'm a **Java and Spring Boot Developer** with a strong interest in building efficient and scalable backend solutions, including **database management**, **API creation**, and **web page development**.
+
+- I'm passionate about **backend development** using **Java and Spring Boot**, alongside exploring **database management**, designing and implementing **APIs**, and contributing to **web page frontends**.
+- My current learning journey includes deepening my expertise in **Java**, **Spring Boot**, and **JavaScript**.
+- I'm actively seeking opportunities to collaborate on **web development projects** where I can apply my Java, Spring Boot, database, and API creation skills.
+- Let's connect! You can find me on [LinkedIn](https://www.linkedin.com/in/ivana-treppo-76739b289/) or email me at ivanaromerotreppo@gmail.com.
+- Fun fact: I am also a Systems Analysis student.
