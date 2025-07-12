@@ -63,10 +63,10 @@
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ivanatreppo&theme=tokyonight_duo" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ivanart1498&theme=tokyonight_duo" alt="Streak Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanatreppo&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanatreppo&theme=tokyonight&layout=compact&hide_border=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ivanart1498&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanart1498&theme=tokyonight&layout=compact&hide_border=true" height="200"/>
 </p>
 
 ---
